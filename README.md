@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 ## 📫 Contact Me
 - Email: mmailzadgann@gmail.com
 - GitHub: [mmalizadgan](https://github.com/mmalizadgan)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mmalizadgan)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-alizadgan-380262232)
 
 ---
 
