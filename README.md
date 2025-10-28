@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mohammad Mahdi Alizadgan 👋
 
-<!--
-**mmalizadgan/mmalizadgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Flutter projects**  
+- 🌱 I’m learning **Linux, Security & Flutter**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact Me
+- Email: mmailzadgann@gmail.com
+- GitHub: [mmalizadgan](https://github.com/mmalizadgan)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mmalizadgan)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmalizadgan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmalizadgan&layout=compact&theme=radical)
+
+---
+
+## 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmalizadgan&theme=radical&no-bg=true)](https://github.com/mmalizadgan)
